@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appstask/static/css/main.db1c0e57.css",
+    "main.js": "/appstask/static/js/main.4af0f3c2.js",
+    "static/js/787.f3621ec9.chunk.js": "/appstask/static/js/787.f3621ec9.chunk.js",
+    "index.html": "/appstask/index.html",
+    "main.db1c0e57.css.map": "/appstask/static/css/main.db1c0e57.css.map",
+    "main.4af0f3c2.js.map": "/appstask/static/js/main.4af0f3c2.js.map",
+    "787.f3621ec9.chunk.js.map": "/appstask/static/js/787.f3621ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1c0e57.css",
+    "static/js/main.4af0f3c2.js"
+  ]
+}
